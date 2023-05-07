@@ -1,0 +1,20 @@
+package com.kashi.demo.service;
+
+import java.util.List;
+
+import com.kashi.demo.model.Customer;
+
+public interface CustomerService {
+	//post
+	 Customer createCustomer(Customer cust);
+	 //put
+	 Customer editCustomer(Customer cust);
+	 //delete
+	 Customer deleteCustomer(Customer cust);
+	 //read-getAll
+	 List<Customer> getAllCustomer();
+	 
+	 // Login Method
+	 Customer login(String email,String password);
+	 
+}

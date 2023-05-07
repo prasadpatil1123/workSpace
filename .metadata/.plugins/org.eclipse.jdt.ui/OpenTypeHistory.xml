@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=CrudDemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.onkar.demo.service{UserService.java[UserService" modifiers="513" timestamp="1683386158668"/>
+    <typeInfo handle="=CrudDemo/C:\/Users\/HP\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.11\/spring-data-jpa-2.7.11.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.11=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1683384449126"/>
+    <typeInfo handle="=CrudDemo/C:\/Learning\/sts-4.18.0.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1680004857640"/>
+</typeInfoHistroy>

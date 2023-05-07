@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/crudkashi?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    defer-datasource-initialization: true 
+  sql:
+    init:
+      mode: always
