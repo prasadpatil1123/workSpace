@@ -1,9 +1,0 @@
-package com.onkar.demo.dao;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.onkar.demo.model.User;
-
-public interface UserDao extends JpaRepository<User, Long> {
-
-}
